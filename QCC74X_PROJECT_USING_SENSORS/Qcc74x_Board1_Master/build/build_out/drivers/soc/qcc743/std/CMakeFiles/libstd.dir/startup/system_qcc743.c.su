@@ -1,0 +1,4 @@
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/startup/system_qcc743.c:207:134:system_setup_xtal_config.isra	16	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/startup/system_qcc743.c:112:6:System_BOD_Init	32	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/startup/system_qcc743.c:125:6:SystemInit	16	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/startup/system_qcc743.c:246:6:System_Post_Init	16	static

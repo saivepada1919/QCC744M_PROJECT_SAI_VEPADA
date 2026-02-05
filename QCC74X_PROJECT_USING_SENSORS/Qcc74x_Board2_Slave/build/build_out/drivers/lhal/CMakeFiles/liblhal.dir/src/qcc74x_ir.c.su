@@ -1,0 +1,10 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_ir.c:503:6:qcc74x_ir_rx_init	16	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_ir.c:632:6:qcc74x_ir_rx_enable	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_ir.c:651:6:qcc74x_ir_rxint_mask	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_ir.c:670:6:qcc74x_ir_rxint_clear	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_ir.c:685:10:qcc74x_ir_get_rxint_status	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_ir.c:560:10:qcc74x_ir_receive	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_ir.c:697:9:qcc74x_ir_get_rxfifo_cnt	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_ir.c:595:10:qcc74x_ir_swm_receive	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_ir.c:713:6:qcc74x_ir_rxfifo_clear	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_ir.c:735:5:qcc74x_ir_feature_control	0	static

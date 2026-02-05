@@ -1,0 +1,398 @@
+The target system is: Linux - 1 - RISCV
+The host system is: Linux - 5.15.0-139-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/3.25.1/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/3.25.1/CompilerIdCXX/a.out"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+riscv64-unknown-elf-gcc (GCC) 10.4.0
+Copyright (C) 2020 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-NkOgXX
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_498ff/fast && make[1]: Entering directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-NkOgXX'
+/usr/bin/make  -f CMakeFiles/cmTC_498ff.dir/build.make CMakeFiles/cmTC_498ff.dir/build
+make[2]: Entering directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-NkOgXX'
+Building C object CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o
+/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-gcc   -v -o CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o -c /home/sai/QCCSDK-QCC74x/tools/cmake/share/cmake-3.25/Modules/CMakeCCompilerABI.c
+Using built-in specs.
+COLLECT_GCC=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-gcc
+Target: riscv64-unknown-elf
+Configured with: /local/mnt/workspace/balaband/Projects/QC/open_toolchain/xuantie-gnu-toolchain/riscv-gcc/configure --target=riscv64-unknown-elf CXXFLAGS='-g -O2 ' --disable-libgcctf --prefix=/opt/riscv --disable-shared --enable-threads=posix --enable-languages=c,c++ --with-system-zlib --enable-tls --with-newlib --with-sysroot=/opt/riscv/riscv64-unknown-elf --with-native-system-header-dir=/include --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libgomp --disable-nls --disable-tm-clone-registry --src=.././riscv-gcc --enable-multilib --with-abi=lp64d --with-arch=rv64imafdc 'CFLAGS_FOR_TARGET=-Os   -mcmodel=medlow' 'CXXFLAGS_FOR_TARGET=-Os   -mcmodel=medlow'
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 10.4.0 (GCC) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc'
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/cc1 -quiet -v -imultilib . -iprefix /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/ -isysroot /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf /home/sai/QCCSDK-QCC74x/tools/cmake/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -march=rv64imafdc -mabi=lp64d -march=rv64imafdc -auxbase-strip CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc5P9sCO.s
+GNU C17 (GCC) version 10.4.0 (riscv64-unknown-elf)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/include"
+ignoring nonexistent directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/usr/local/include"
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed"
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include"
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include
+End of search list.
+GNU C17 (GCC) version 10.4.0 (riscv64-unknown-elf)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 5aff4b1a37488955e5e9dd7a734e0d3f
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc'
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/as -v --traditional-format -march=rv64imafdc -march=rv64imafdc -mabi=lp64d -o CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o /tmp/cc5P9sCO.s
+GNU assembler version 2.35 (riscv64-unknown-elf) using BFD version (GNU Binutils) 2.35
+COMPILER_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/
+LIBRARY_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc'
+Linking C executable cmTC_498ff
+/home/sai/QCCSDK-QCC74x/tools/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_498ff.dir/link.txt --verbose=1
+/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-gcc  -v CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o -o cmTC_498ff 
+Using built-in specs.
+COLLECT_GCC=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-gcc
+COLLECT_LTO_WRAPPER=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/lto-wrapper
+Target: riscv64-unknown-elf
+Configured with: /local/mnt/workspace/balaband/Projects/QC/open_toolchain/xuantie-gnu-toolchain/riscv-gcc/configure --target=riscv64-unknown-elf CXXFLAGS='-g -O2 ' --disable-libgcctf --prefix=/opt/riscv --disable-shared --enable-threads=posix --enable-languages=c,c++ --with-system-zlib --enable-tls --with-newlib --with-sysroot=/opt/riscv/riscv64-unknown-elf --with-native-system-header-dir=/include --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libgomp --disable-nls --disable-tm-clone-registry --src=.././riscv-gcc --enable-multilib --with-abi=lp64d --with-arch=rv64imafdc 'CFLAGS_FOR_TARGET=-Os   -mcmodel=medlow' 'CXXFLAGS_FOR_TARGET=-Os   -mcmodel=medlow'
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 10.4.0 (GCC) 
+COMPILER_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/
+LIBRARY_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_498ff' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc'
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/collect2 -plugin /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/liblto_plugin.so -plugin-opt=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/cccuzqxk.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgloss -plugin-opt=-pass-through=-lgcc --sysroot=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf -melf64lriscv -o cmTC_498ff /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/crt0.o /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0 -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o -lgcc --start-group -lc -lgloss --end-group -lgcc /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_498ff' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc'
+make[2]: Leaving directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-NkOgXX'
+make[1]: Leaving directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-NkOgXX'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include]
+    add: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed]
+    add: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include]
+  end of search list found
+  collapse include dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/include]
+  collapse include dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed]
+  collapse include dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include]
+  implicit include dirs: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/include;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(riscv64-unknown-elf-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-NkOgXX]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make -f Makefile cmTC_498ff/fast && make[1]: Entering directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-NkOgXX']
+  ignore line: [/usr/bin/make  -f CMakeFiles/cmTC_498ff.dir/build.make CMakeFiles/cmTC_498ff.dir/build]
+  ignore line: [make[2]: Entering directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-NkOgXX']
+  ignore line: [Building C object CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-gcc   -v -o CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o -c /home/sai/QCCSDK-QCC74x/tools/cmake/share/cmake-3.25/Modules/CMakeCCompilerABI.c]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-gcc]
+  ignore line: [Target: riscv64-unknown-elf]
+  ignore line: [Configured with: /local/mnt/workspace/balaband/Projects/QC/open_toolchain/xuantie-gnu-toolchain/riscv-gcc/configure --target=riscv64-unknown-elf CXXFLAGS='-g -O2 ' --disable-libgcctf --prefix=/opt/riscv --disable-shared --enable-threads=posix --enable-languages=c c++ --with-system-zlib --enable-tls --with-newlib --with-sysroot=/opt/riscv/riscv64-unknown-elf --with-native-system-header-dir=/include --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libgomp --disable-nls --disable-tm-clone-registry --src=.././riscv-gcc --enable-multilib --with-abi=lp64d --with-arch=rv64imafdc 'CFLAGS_FOR_TARGET=-Os   -mcmodel=medlow' 'CXXFLAGS_FOR_TARGET=-Os   -mcmodel=medlow']
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 10.4.0 (GCC) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc']
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/cc1 -quiet -v -imultilib . -iprefix /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/ -isysroot /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf /home/sai/QCCSDK-QCC74x/tools/cmake/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -march=rv64imafdc -mabi=lp64d -march=rv64imafdc -auxbase-strip CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc5P9sCO.s]
+  ignore line: [GNU C17 (GCC) version 10.4.0 (riscv64-unknown-elf)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/include"]
+  ignore line: [ignoring nonexistent directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/usr/local/include"]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed"]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include"]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include]
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed]
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C17 (GCC) version 10.4.0 (riscv64-unknown-elf)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 5aff4b1a37488955e5e9dd7a734e0d3f]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc']
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/as -v --traditional-format -march=rv64imafdc -march=rv64imafdc -mabi=lp64d -o CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o /tmp/cc5P9sCO.s]
+  ignore line: [GNU assembler version 2.35 (riscv64-unknown-elf) using BFD version (GNU Binutils) 2.35]
+  ignore line: [COMPILER_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/]
+  ignore line: [LIBRARY_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc']
+  ignore line: [Linking C executable cmTC_498ff]
+  ignore line: [/home/sai/QCCSDK-QCC74x/tools/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_498ff.dir/link.txt --verbose=1]
+  ignore line: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-gcc  -v CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o -o cmTC_498ff ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-gcc]
+  ignore line: [COLLECT_LTO_WRAPPER=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/lto-wrapper]
+  ignore line: [Target: riscv64-unknown-elf]
+  ignore line: [Configured with: /local/mnt/workspace/balaband/Projects/QC/open_toolchain/xuantie-gnu-toolchain/riscv-gcc/configure --target=riscv64-unknown-elf CXXFLAGS='-g -O2 ' --disable-libgcctf --prefix=/opt/riscv --disable-shared --enable-threads=posix --enable-languages=c c++ --with-system-zlib --enable-tls --with-newlib --with-sysroot=/opt/riscv/riscv64-unknown-elf --with-native-system-header-dir=/include --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libgomp --disable-nls --disable-tm-clone-registry --src=.././riscv-gcc --enable-multilib --with-abi=lp64d --with-arch=rv64imafdc 'CFLAGS_FOR_TARGET=-Os   -mcmodel=medlow' 'CXXFLAGS_FOR_TARGET=-Os   -mcmodel=medlow']
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 10.4.0 (GCC) ]
+  ignore line: [COMPILER_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/]
+  ignore line: [LIBRARY_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_498ff' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc']
+  link line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/collect2 -plugin /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/liblto_plugin.so -plugin-opt=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/cccuzqxk.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgloss -plugin-opt=-pass-through=-lgcc --sysroot=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf -melf64lriscv -o cmTC_498ff /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/crt0.o /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0 -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o -lgcc --start-group -lc -lgloss --end-group -lgcc /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o]
+    arg [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cccuzqxk.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgloss] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--sysroot=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf] ==> ignore
+    arg [-melf64lriscv] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_498ff] ==> ignore
+    arg [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/crt0.o] ==> obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/crt0.o]
+    arg [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o] ==> obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o]
+    arg [-L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0] ==> dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0]
+    arg [-L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc] ==> dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc]
+    arg [-L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib] ==> dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib]
+    arg [-L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib] ==> dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib]
+    arg [CMakeFiles/cmTC_498ff.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--start-group] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgloss] ==> lib [gloss]
+    arg [--end-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o] ==> obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o]
+  collapse obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/crt0.o] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/lib/crt0.o]
+  collapse obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o]
+  collapse obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o]
+  collapse library dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0]
+  collapse library dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc]
+  collapse library dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/lib]
+  collapse library dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/lib]
+  implicit libs: [gcc;c;gloss;gcc]
+  implicit objs: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/lib/crt0.o;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o]
+  implicit dirs: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/lib]
+  implicit fwks: []
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-PQcDcX
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_e45f5/fast && make[1]: Entering directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-PQcDcX'
+/usr/bin/make  -f CMakeFiles/cmTC_e45f5.dir/build.make CMakeFiles/cmTC_e45f5.dir/build
+make[2]: Entering directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-PQcDcX'
+Building CXX object CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o
+/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-g++   -v -o CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o -c /home/sai/QCCSDK-QCC74x/tools/cmake/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp
+Using built-in specs.
+COLLECT_GCC=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-g++
+Target: riscv64-unknown-elf
+Configured with: /local/mnt/workspace/balaband/Projects/QC/open_toolchain/xuantie-gnu-toolchain/riscv-gcc/configure --target=riscv64-unknown-elf CXXFLAGS='-g -O2 ' --disable-libgcctf --prefix=/opt/riscv --disable-shared --enable-threads=posix --enable-languages=c,c++ --with-system-zlib --enable-tls --with-newlib --with-sysroot=/opt/riscv/riscv64-unknown-elf --with-native-system-header-dir=/include --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libgomp --disable-nls --disable-tm-clone-registry --src=.././riscv-gcc --enable-multilib --with-abi=lp64d --with-arch=rv64imafdc 'CFLAGS_FOR_TARGET=-Os   -mcmodel=medlow' 'CXXFLAGS_FOR_TARGET=-Os   -mcmodel=medlow'
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 10.4.0 (GCC) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc'
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/cc1plus -quiet -v -imultilib . -iprefix /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/ -isysroot /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf /home/sai/QCCSDK-QCC74x/tools/cmake/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -march=rv64imafdc -mabi=lp64d -march=rv64imafdc -auxbase-strip CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccetQuzV.s
+GNU C++14 (GCC) version 10.4.0 (riscv64-unknown-elf)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0"
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/riscv64-unknown-elf/."
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/backward"
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/include"
+ignoring nonexistent directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/usr/local/include"
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed"
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include"
+ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/riscv64-unknown-elf/.
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/backward
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include
+End of search list.
+GNU C++14 (GCC) version 10.4.0 (riscv64-unknown-elf)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 5b9c9cac36f6b283e3b396e6d7c88c06
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc'
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/as -v --traditional-format -march=rv64imafdc -march=rv64imafdc -mabi=lp64d -o CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccetQuzV.s
+GNU assembler version 2.35 (riscv64-unknown-elf) using BFD version (GNU Binutils) 2.35
+COMPILER_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/
+LIBRARY_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc'
+Linking CXX executable cmTC_e45f5
+/home/sai/QCCSDK-QCC74x/tools/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e45f5.dir/link.txt --verbose=1
+/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-g++  -v CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_e45f5 
+Using built-in specs.
+COLLECT_GCC=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-g++
+COLLECT_LTO_WRAPPER=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/lto-wrapper
+Target: riscv64-unknown-elf
+Configured with: /local/mnt/workspace/balaband/Projects/QC/open_toolchain/xuantie-gnu-toolchain/riscv-gcc/configure --target=riscv64-unknown-elf CXXFLAGS='-g -O2 ' --disable-libgcctf --prefix=/opt/riscv --disable-shared --enable-threads=posix --enable-languages=c,c++ --with-system-zlib --enable-tls --with-newlib --with-sysroot=/opt/riscv/riscv64-unknown-elf --with-native-system-header-dir=/include --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libgomp --disable-nls --disable-tm-clone-registry --src=.././riscv-gcc --enable-multilib --with-abi=lp64d --with-arch=rv64imafdc 'CFLAGS_FOR_TARGET=-Os   -mcmodel=medlow' 'CXXFLAGS_FOR_TARGET=-Os   -mcmodel=medlow'
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 10.4.0 (GCC) 
+COMPILER_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/
+LIBRARY_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e45f5' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc'
+ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/collect2 -plugin /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/liblto_plugin.so -plugin-opt=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/cc9svK9l.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgloss -plugin-opt=-pass-through=-lgcc --sysroot=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf -melf64lriscv -o cmTC_e45f5 /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/crt0.o /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0 -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc --start-group -lc -lgloss --end-group -lgcc /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e45f5' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc'
+make[2]: Leaving directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-PQcDcX'
+make[1]: Leaving directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-PQcDcX'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0]
+    add: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/riscv64-unknown-elf/.]
+    add: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/backward]
+    add: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include]
+    add: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed]
+    add: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include]
+  end of search list found
+  collapse include dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include/c++/10.4.0]
+  collapse include dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/riscv64-unknown-elf/.] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include/c++/10.4.0/riscv64-unknown-elf]
+  collapse include dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/backward] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include/c++/10.4.0/backward]
+  collapse include dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/include]
+  collapse include dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed]
+  collapse include dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include]
+  implicit include dirs: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include/c++/10.4.0;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include/c++/10.4.0/riscv64-unknown-elf;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include/c++/10.4.0/backward;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/include;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(riscv64-unknown-elf-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-PQcDcX]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make -f Makefile cmTC_e45f5/fast && make[1]: Entering directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-PQcDcX']
+  ignore line: [/usr/bin/make  -f CMakeFiles/cmTC_e45f5.dir/build.make CMakeFiles/cmTC_e45f5.dir/build]
+  ignore line: [make[2]: Entering directory '/home/sai/QCCSDK-QCC74x/examples/peripherals/spi/spi_slave/build/CMakeFiles/CMakeScratch/TryCompile-PQcDcX']
+  ignore line: [Building CXX object CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-g++   -v -o CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o -c /home/sai/QCCSDK-QCC74x/tools/cmake/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-g++]
+  ignore line: [Target: riscv64-unknown-elf]
+  ignore line: [Configured with: /local/mnt/workspace/balaband/Projects/QC/open_toolchain/xuantie-gnu-toolchain/riscv-gcc/configure --target=riscv64-unknown-elf CXXFLAGS='-g -O2 ' --disable-libgcctf --prefix=/opt/riscv --disable-shared --enable-threads=posix --enable-languages=c c++ --with-system-zlib --enable-tls --with-newlib --with-sysroot=/opt/riscv/riscv64-unknown-elf --with-native-system-header-dir=/include --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libgomp --disable-nls --disable-tm-clone-registry --src=.././riscv-gcc --enable-multilib --with-abi=lp64d --with-arch=rv64imafdc 'CFLAGS_FOR_TARGET=-Os   -mcmodel=medlow' 'CXXFLAGS_FOR_TARGET=-Os   -mcmodel=medlow']
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 10.4.0 (GCC) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc']
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/cc1plus -quiet -v -imultilib . -iprefix /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/ -isysroot /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf /home/sai/QCCSDK-QCC74x/tools/cmake/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -march=rv64imafdc -mabi=lp64d -march=rv64imafdc -auxbase-strip CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccetQuzV.s]
+  ignore line: [GNU C++14 (GCC) version 10.4.0 (riscv64-unknown-elf)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0"]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/riscv64-unknown-elf/."]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/backward"]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/include"]
+  ignore line: [ignoring nonexistent directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/usr/local/include"]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed"]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/../../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include"]
+  ignore line: [ignoring duplicate directory "/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0]
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/riscv64-unknown-elf/.]
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include/c++/10.4.0/backward]
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include]
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/include-fixed]
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++14 (GCC) version 10.4.0 (riscv64-unknown-elf)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 5b9c9cac36f6b283e3b396e6d7c88c06]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc']
+  ignore line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/as -v --traditional-format -march=rv64imafdc -march=rv64imafdc -mabi=lp64d -o CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccetQuzV.s]
+  ignore line: [GNU assembler version 2.35 (riscv64-unknown-elf) using BFD version (GNU Binutils) 2.35]
+  ignore line: [COMPILER_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/]
+  ignore line: [LIBRARY_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc']
+  ignore line: [Linking CXX executable cmTC_e45f5]
+  ignore line: [/home/sai/QCCSDK-QCC74x/tools/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e45f5.dir/link.txt --verbose=1]
+  ignore line: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-g++  -v CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_e45f5 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/riscv64-unknown-elf-g++]
+  ignore line: [COLLECT_LTO_WRAPPER=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/lto-wrapper]
+  ignore line: [Target: riscv64-unknown-elf]
+  ignore line: [Configured with: /local/mnt/workspace/balaband/Projects/QC/open_toolchain/xuantie-gnu-toolchain/riscv-gcc/configure --target=riscv64-unknown-elf CXXFLAGS='-g -O2 ' --disable-libgcctf --prefix=/opt/riscv --disable-shared --enable-threads=posix --enable-languages=c c++ --with-system-zlib --enable-tls --with-newlib --with-sysroot=/opt/riscv/riscv64-unknown-elf --with-native-system-header-dir=/include --disable-libmudflap --disable-libssp --disable-libquadmath --disable-libgomp --disable-nls --disable-tm-clone-registry --src=.././riscv-gcc --enable-multilib --with-abi=lp64d --with-arch=rv64imafdc 'CFLAGS_FOR_TARGET=-Os   -mcmodel=medlow' 'CXXFLAGS_FOR_TARGET=-Os   -mcmodel=medlow']
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 10.4.0 (GCC) ]
+  ignore line: [COMPILER_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/bin/]
+  ignore line: [LIBRARY_PATH=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/:/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e45f5' '-march=rv64imafdc' '-mabi=lp64d' '-march=rv64imafdc']
+  link line: [ /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/collect2 -plugin /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/liblto_plugin.so -plugin-opt=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/cc9svK9l.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgloss -plugin-opt=-pass-through=-lgcc --sysroot=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf -melf64lriscv -o cmTC_e45f5 /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/crt0.o /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0 -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib -L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc --start-group -lc -lgloss --end-group -lgcc /home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o]
+    arg [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../libexec/gcc/riscv64-unknown-elf/10.4.0/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cc9svK9l.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgloss] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--sysroot=/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf] ==> ignore
+    arg [-melf64lriscv] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_e45f5] ==> ignore
+    arg [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/crt0.o] ==> obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/crt0.o]
+    arg [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o] ==> obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o]
+    arg [-L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0] ==> dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0]
+    arg [-L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc] ==> dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc]
+    arg [-L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib] ==> dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib]
+    arg [-L/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib] ==> dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib]
+    arg [CMakeFiles/cmTC_e45f5.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--start-group] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgloss] ==> lib [gloss]
+    arg [--end-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o] ==> obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o]
+  collapse obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib/crt0.o] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/lib/crt0.o]
+  collapse obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o]
+  collapse obj [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o]
+  collapse library dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0]
+  collapse library dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc]
+  collapse library dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../lib/gcc/riscv64-unknown-elf/10.4.0/../../../../riscv64-unknown-elf/lib] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/lib]
+  collapse library dir [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/bin/../riscv64-unknown-elf/lib] ==> [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/lib]
+  implicit libs: [stdc++;m;gcc;c;gloss;gcc]
+  implicit objs: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/lib/crt0.o;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/crtbegin.o;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0/crtend.o]
+  implicit dirs: [/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc/riscv64-unknown-elf/10.4.0;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/lib/gcc;/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/lib]
+  implicit fwks: []
+
+

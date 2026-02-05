@@ -1,0 +1,13 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:5:5:qcc74x_sdh_init	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:73:5:qcc74x_sdh_adma2_desc_init	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:150:5:qcc74x_sdh_cmd_cfg	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:244:5:qcc74x_sdh_data_cfg	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:340:5:qcc74x_sdh_tranfer_start	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:380:5:qcc74x_sdh_get_resp	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:409:6:qcc74x_sdh_sta_en	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:429:10:qcc74x_sdh_sta_en_get	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:443:6:qcc74x_sdh_sta_int_en	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:463:10:qcc74x_sdh_sta_int_en_get	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:477:10:qcc74x_sdh_sta_get	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:491:6:qcc74x_sdh_sta_clr	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sdh.c:501:5:qcc74x_sdh_feature_control	0	static

@@ -1,0 +1,16 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:5:6:qcc74x_pwm_v2_init	48	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:65:6:qcc74x_pwm_v2_deinit	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:120:6:qcc74x_pwm_v2_set_period	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:136:6:qcc74x_pwm_v2_start	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:161:6:qcc74x_pwm_v2_stop	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:186:7:qcc74x_pwm_v2_get_frequency	16	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:223:6:qcc74x_pwm_v2_channel_init	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:271:6:qcc74x_pwm_v2_channel_set_threshold	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:283:6:qcc74x_pwm_v2_channel_positive_start	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:298:6:qcc74x_pwm_v2_channel_negative_start	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:313:6:qcc74x_pwm_v2_channel_positive_stop	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:328:6:qcc74x_pwm_v2_channel_negative_stop	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:343:6:qcc74x_pwm_v2_int_enable	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:366:6:qcc74x_pwm_v2_int_clear	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:375:10:qcc74x_pwm_v2_get_intstatus	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_pwm_v2.c:391:5:qcc74x_pwm_v2_feature_control	0	static
