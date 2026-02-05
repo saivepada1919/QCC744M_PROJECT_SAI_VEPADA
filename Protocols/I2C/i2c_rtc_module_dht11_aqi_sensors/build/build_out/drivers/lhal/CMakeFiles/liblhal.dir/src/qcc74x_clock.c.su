@@ -1,0 +1,3 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_clock.c:26:10:qcc74x_peripheral_clock_get	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_clock.c:40:92:qcc74x_peripheral_clock_control	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_clock.c:53:92:qcc74x_peripheral_clock_status_get	0	static

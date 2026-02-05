@@ -1,0 +1,9 @@
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_sha256.c:39:6:utils_sha256_init	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_sha256.c:43:6:utils_sha256_free	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_sha256.c:51:6:utils_sha256_clone	16	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_sha256.c:56:6:utils_sha256_starts	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_sha256.c:169:6:utils_sha256_process	320	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_sha256.c:231:6:utils_sha256_update.part.0	32	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_sha256.c:231:6:utils_sha256_update	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_sha256.c:276:6:utils_sha256_finish	48	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_sha256.c:307:6:utils_sha256	144	static

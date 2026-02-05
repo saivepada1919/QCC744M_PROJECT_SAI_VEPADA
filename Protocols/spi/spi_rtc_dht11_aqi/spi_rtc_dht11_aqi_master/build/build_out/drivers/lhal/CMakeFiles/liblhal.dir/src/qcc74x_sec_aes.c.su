@@ -1,0 +1,13 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:9:6:qcc74x_aes_init	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:31:6:qcc74x_aes_deinit	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:47:6:qcc74x_aes_select_hwkey	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:69:6:qcc74x_aes_set_mode	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:93:6:qcc74x_aes_setkey	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:155:5:qcc74x_aes_encrypt	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:231:5:qcc74x_aes_decrypt	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:307:6:qcc74x_aes_link_init	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:330:6:qcc74x_aes_link_deinit	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:347:5:qcc74x_aes_link_update	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:398:6:qcc74x_group0_request_aes_access	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:419:6:qcc74x_group0_release_aes_access	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_sec_aes.c:432:6:qcc74x_aes_set_hwkey_source	0	static

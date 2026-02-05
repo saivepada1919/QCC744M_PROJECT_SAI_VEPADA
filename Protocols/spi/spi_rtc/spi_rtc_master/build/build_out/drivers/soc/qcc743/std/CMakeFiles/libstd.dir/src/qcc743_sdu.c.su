@@ -1,0 +1,2 @@
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_sdu.c:27:6:sdio_GEN_CARD2HOST_INT	0	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_sdu.c:50:10:sdio_ioctl	0	static

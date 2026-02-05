@@ -1,0 +1,2 @@
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/startup/interrupt.c:97:6:exception_entry	80	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/startup/interrupt.c:154:6:interrupt_entry	16	static

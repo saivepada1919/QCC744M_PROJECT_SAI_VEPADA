@@ -1,0 +1,9 @@
+/home/sai/QCCSDK-QCC74x/drivers/sys/qcc743/qcc743_sys.c:29:21:qcc74x_sys_rstinfo_get	0	static
+/home/sai/QCCSDK-QCC74x/drivers/sys/qcc743/qcc743_sys.c:34:8:qcc74x_sys_rstinfo_getstring	0	static
+/home/sai/QCCSDK-QCC74x/drivers/sys/qcc743/qcc743_sys.c:39:5:qcc74x_sys_rstinfo_set	0	static
+/home/sai/QCCSDK-QCC74x/drivers/sys/qcc743/qcc743_sys.c:47:6:qcc74x_sys_rstinfo_init	32	static
+/home/sai/QCCSDK-QCC74x/drivers/sys/qcc743/qcc743_sys.c:70:5:qcc74x_sys_rstinfo_getsting	32	static
+/home/sai/QCCSDK-QCC74x/drivers/sys/qcc743/qcc743_sys.c:77:5:qcc74x_sys_isxipaddr	0	static
+/home/sai/QCCSDK-QCC74x/drivers/sys/qcc743/qcc743_sys.c:88:5:qcc74x_sys_em_config	32	static
+/home/sai/QCCSDK-QCC74x/drivers/sys/qcc743/qcc743_sys.c:108:5:qcc74x_sys_reset_por	16	static
+/home/sai/QCCSDK-QCC74x/drivers/sys/qcc743/qcc743_sys.c:132:6:qcc74x_sys_reset_system	16	static

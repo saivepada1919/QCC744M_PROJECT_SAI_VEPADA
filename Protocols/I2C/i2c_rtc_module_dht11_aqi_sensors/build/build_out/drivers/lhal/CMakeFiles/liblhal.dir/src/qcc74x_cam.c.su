@@ -1,0 +1,12 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:18:6:qcc74x_cam_init	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:448:6:qcc74x_cam_start	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:463:6:qcc74x_cam_stop	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:478:6:qcc74x_cam_int_mask	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:505:6:qcc74x_cam_int_clear	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:514:6:qcc74x_cam_crop_vsync	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:524:6:qcc74x_cam_crop_hsync	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:538:6:qcc74x_cam_pop_one_frame	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:553:9:qcc74x_cam_get_frame_count	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:572:10:qcc74x_cam_get_frame_info	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:594:10:qcc74x_cam_get_intstatus	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cam.c:603:5:qcc74x_cam_feature_control	0	static

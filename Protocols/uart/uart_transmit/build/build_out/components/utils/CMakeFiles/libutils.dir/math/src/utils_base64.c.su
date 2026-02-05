@@ -1,0 +1,3 @@
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_base64.c:42:12:utils_base64encode	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_base64.c:88:6:utils_base64_encode_stream	64	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_base64.c:123:12:utils_base64decode	0	static

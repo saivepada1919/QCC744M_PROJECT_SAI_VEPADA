@@ -1,0 +1,12 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:16:13:irq_unexpected_isr	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:21:6:qcc74x_irq_initialize	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:34:89:qcc74x_irq_save	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:50:84:qcc74x_irq_restore	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:89:5:qcc74x_irq_attach	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:110:5:qcc74x_irq_detach	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:122:6:qcc74x_irq_enable	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:148:6:qcc74x_irq_disable	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:169:6:qcc74x_irq_set_pending	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:190:6:qcc74x_irq_clear_pending	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:211:6:qcc74x_irq_set_nlbits	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_irq.c:227:6:qcc74x_irq_set_priority	0	static

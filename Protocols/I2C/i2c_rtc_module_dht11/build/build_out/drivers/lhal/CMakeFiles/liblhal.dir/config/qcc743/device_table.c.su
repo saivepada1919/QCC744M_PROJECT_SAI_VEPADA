@@ -1,0 +1,2 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/config/qcc743/device_table.c:294:25:qcc74x_device_get_by_name	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/config/qcc743/device_table.c:305:6:qcc74x_device_set_userdata	0	static

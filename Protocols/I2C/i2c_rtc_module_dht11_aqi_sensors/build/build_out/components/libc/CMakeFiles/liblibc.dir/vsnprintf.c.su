@@ -1,0 +1,15 @@
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:219:20:out_buffer	0	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:239:20:out_discard	0	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:275:15:out_rev_	48	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:373:15:print_integer	112	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:424:33:get_components	80	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:228:20:out_console	0	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:540:15:print_broken_up_decimal.isra	80	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:466:8:apply_scaling	16	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:471:8:unapply_scaling	16	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:476:23:update_normalization	16	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:634:15:print_exponential_number	208	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:761:15:print_floating_point	160	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:807:12:__vsnprintf	144	static
+/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include/stdio.h:268:5:vsnprintf	0	static
+/home/sai/QCCSDK-QCC74x/components/libc/vsnprintf.c:1095:5:console_vsnprintf	0	static

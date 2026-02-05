@@ -1,0 +1,15 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:294:41:qcc74x_dbi_get_words_cnt_form_pixel.isra	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:267:37:qcc74x_dbi_fill_fifo.isra	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:30:6:qcc74x_dbi_init	16	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:220:6:qcc74x_dbi_deinit	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:243:6:qcc74x_dbi_qspi_set_addr	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:336:5:qcc74x_dbi_send_cmd_data	48	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:429:5:qcc74x_dbi_send_cmd_read_data	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:520:5:qcc74x_dbi_send_cmd_pixel	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:606:6:qcc74x_dbi_link_txdma	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:626:6:qcc74x_dbi_txint_mask	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:646:6:qcc74x_dbi_tcint_mask	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:666:6:qcc74x_dbi_errint_mask	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:686:10:qcc74x_dbi_get_intstatus	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:719:6:qcc74x_dbi_int_clear	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dbi.c:740:5:qcc74x_dbi_feature_control	16	static

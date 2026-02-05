@@ -1,0 +1,13 @@
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:5:6:utils_list_init	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:31:6:utils_list_push_back	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:11:6:utils_list_pool_init	32	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:54:6:utils_list_push_front	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:72:24:utils_list_pop_front	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:87:6:utils_list_extract	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:130:5:utils_list_find	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:144:14:utils_list_cnt	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:174:6:utils_list_insert	48	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:215:6:utils_list_insert_after	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:252:6:utils_list_insert_before	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:289:6:utils_list_concat	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/list/src/utils_list.c:312:6:utils_list_remove	0	static

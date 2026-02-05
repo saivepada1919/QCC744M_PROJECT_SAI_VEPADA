@@ -1,0 +1,7 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_wdg.c:5:6:qcc74x_wdg_init	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_wdg.c:55:6:qcc74x_wdg_start	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_wdg.c:74:6:qcc74x_wdg_stop	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_wdg.c:93:10:qcc74x_wdg_get_countervalue	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_wdg.c:106:6:qcc74x_wdg_set_countervalue	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_wdg.c:121:6:qcc74x_wdg_reset_countervalue	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_wdg.c:140:6:qcc74x_wdg_compint_clear	0	static

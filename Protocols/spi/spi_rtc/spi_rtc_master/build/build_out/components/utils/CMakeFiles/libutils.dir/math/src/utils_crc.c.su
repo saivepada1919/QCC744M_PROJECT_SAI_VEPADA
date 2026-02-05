@@ -1,0 +1,6 @@
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_crc.c:56:6:utils_crc32_stream_init	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_crc.c:61:6:utils_crc32_stream_feed	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_crc.c:66:6:utils_crc32_stream_feed_block	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_crc.c:72:10:utils_crc32_stream_results	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_crc.c:78:10:utils_crc16_ccitt	0	static
+/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_crc.c:129:9:utils_crc8	0	static

@@ -1,0 +1,14 @@
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:10:6:board_uartx_gpio_init	16	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:22:6:board_i2c0_gpio_init	32	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:33:6:board_spi0_gpio_init	16	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:49:6:board_spi0_gpio_3pin_init	32	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:63:6:board_pwm_gpio_init	16	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:78:6:board_adc_gpio_init	16	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:109:6:board_dac_gpio_init	32	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:120:6:board_emac_gpio_init	16	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:141:6:board_sdh_gpio_init	16	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:154:6:board_ir_gpio_init	16	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:163:6:board_dvp_gpio_init	16	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:236:6:board_i2s_gpio_init	16	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:247:6:board_timer_gpio_init	16	static
+/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board_gpio.c:256:6:board_acomp_init	48	static

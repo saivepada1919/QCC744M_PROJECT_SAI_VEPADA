@@ -1,0 +1,3 @@
+/home/sai/QCCSDK-QCC74x/components/libc/nuttx/libc/stdlib/lib_qsort.c:101:20:swapfunc	0	static
+/home/sai/QCCSDK-QCC74x/components/libc/nuttx/libc/stdlib/lib_qsort.c:113:21:med3	32	static
+/home/sai/QCCSDK-QCC74x/toolchain/linux_x86_64/riscv64-unknown-elf/include/stdlib.h:143:6:qsort	80	static

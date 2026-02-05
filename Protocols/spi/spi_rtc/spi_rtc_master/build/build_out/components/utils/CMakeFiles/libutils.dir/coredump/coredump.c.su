@@ -1,0 +1,2 @@
+/home/sai/QCCSDK-QCC74x/components/utils/coredump/coredump.c:93:5:coredump_xip_flash_write	64	static
+/home/sai/QCCSDK-QCC74x/components/utils/coredump/coredump.c:112:6:coredump_run	96	static

@@ -1,0 +1,8 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_audac.c:11:5:qcc74x_audac_init	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_audac.c:130:5:qcc74x_audac_volume_init	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_audac.c:176:5:qcc74x_audac_link_rxdma	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_audac.c:194:5:qcc74x_audac_int_mask	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_audac.c:220:5:qcc74x_audac_int_unmask	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_audac.c:246:5:qcc74x_audac_get_intstatus	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_audac.c:276:5:qcc74x_audac_int_clear	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_audac.c:306:5:qcc74x_audac_feature_control	0	static

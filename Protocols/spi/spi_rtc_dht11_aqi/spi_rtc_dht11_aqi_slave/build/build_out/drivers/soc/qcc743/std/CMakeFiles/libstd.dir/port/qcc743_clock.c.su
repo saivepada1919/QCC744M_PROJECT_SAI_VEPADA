@@ -1,0 +1,7 @@
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/port/qcc743_clock.c:150:13:set_bit	0	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/port/qcc743_clock.c:155:13:clear_bit	0	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/port/qcc743_clock.c:5:10:qcc74x_clk_get_system_clock	0	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/port/qcc743_clock.c:24:10:qcc74x_clk_get_peripheral_clock	0	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/port/qcc743_clock.c:57:10:qcc74x_peripheral_clock_get_by_id	0	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/port/qcc743_clock.c:160:5:qcc74x_peripheral_clock_control_by_id	32	static
+/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/port/qcc743_clock.c:273:5:qcc74x_peripheral_clock_status_get_by_id	0	static

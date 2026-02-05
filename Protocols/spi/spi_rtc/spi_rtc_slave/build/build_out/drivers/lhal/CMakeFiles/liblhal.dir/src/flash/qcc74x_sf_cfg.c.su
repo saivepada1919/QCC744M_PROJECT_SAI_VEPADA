@@ -1,0 +1,10 @@
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_sf_cfg.c:2848:94:qcc74x_sf_cfg_init_ext_flash_gpio	64	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_sf_cfg.c:2919:94:qcc74x_sf_cfg_deinit_ext_flash_gpio	64	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_sf_cfg.c:3295:94:qcc74x_sf_cfg_init_flash2_gpio	16	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_sf_cfg.c:2997:94:qcc74x_sf_cfg_init_flash_gpio	16	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_sf_cfg.c:3326:99:qcc74x_sf_cfg_flash_identify	64	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_sf_cfg.c:3496:99:qcc74x_sf_cfg_flash_identify_ext	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_sf_cfg.c:3515:94:qcc74x_sf_cfg_get_flash_cfg_need_lock	144	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_sf_cfg.c:3568:94:qcc74x_sf_cfg_get_flash_cfg_need_lock_ext	0	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_sf_cfg.c:3587:94:qcc74x_sf_cfg_flash_init	32	static
+/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_sf_cfg.c:3675:94:qcc74x_sf_cfg_sbus2_flash_init	16	static
