@@ -1,7 +1,0 @@
-/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board.c:53:121:system_clock_init	16	static
-/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board.c:262:6:qcc74x_show_log	16	static
-/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board.c:269:13:qcc74x_sys_version	0	static
-/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board.c:290:6:qcc74x_show_component_version	32	static
-/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board.c:303:6:qcc74x_show_chipinfo	64	static
-/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board.c:365:6:board_init	128	static
-/home/sai/QCCSDK-QCC74x/bsp/board/qcc74xdk/board.c:777:5:board_device_info_version	16	static

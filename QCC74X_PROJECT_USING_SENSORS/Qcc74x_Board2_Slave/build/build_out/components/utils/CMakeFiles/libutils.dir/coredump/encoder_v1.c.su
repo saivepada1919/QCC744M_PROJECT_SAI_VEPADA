@@ -1,3 +1,0 @@
-/home/sai/QCCSDK-QCC74x/components/utils/coredump/encoder_v1.c:28:13:cd_base64_write_block	16	static
-/home/sai/QCCSDK-QCC74x/components/utils/coredump/encoder_v1.c:52:12:read_word_cb	16	static
-/home/sai/QCCSDK-QCC74x/components/utils/coredump/encoder_v1.c:87:6:coredump_print	80	static

@@ -1,6 +1,0 @@
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dac.c:10:6:qcc74x_dac_init	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dac.c:64:6:qcc74x_dac_channel_enable	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dac.c:93:6:qcc74x_dac_channel_disable	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dac.c:117:6:qcc74x_dac_link_txdma	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dac.c:160:6:qcc74x_dac_set_dma_format	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_dac.c:174:6:qcc74x_dac_set_value	0	static

@@ -1,7 +1,0 @@
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_acomp.c:14:6:qcc74x_acomp_init	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_acomp.c:61:6:qcc74x_acomp_enable	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_acomp.c:81:6:qcc74x_acomp_disable	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_acomp.c:102:10:qcc74x_acomp_get_result	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_acomp.c:121:10:qcc74x_acomp_get_postive_input	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_acomp.c:137:5:qcc74x_acomp_gpio_2_chanid	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_acomp.c:249:5:qcc74x_acomp_chanid_2_gpio	0	static

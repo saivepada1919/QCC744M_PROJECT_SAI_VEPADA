@@ -1,3 +1,0 @@
-/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_common.c:66:97:ASM_Delay_Us	16	static
-/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_common.c:127:98:arch_delay_us	32	static
-/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_common.c:182:98:arch_delay_ms	16	static

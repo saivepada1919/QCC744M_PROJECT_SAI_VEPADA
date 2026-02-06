@@ -1,5 +1,0 @@
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_flash_secreg_port.c:198:111:sflash_general_get_lock	32	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_flash_secreg_port.c:231:111:sflash_general_set_lock	48	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_flash_secreg_port.c:147:111:sflash_general_erase	64	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_flash_secreg_port.c:78:110:sflash_general_write	96	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/flash/qcc74x_flash_secreg_port.c:12:110:sflash_general_read	96	static

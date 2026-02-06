@@ -1,7 +1,0 @@
-/home/sai/QCCSDK-QCC74x/components/mm/tlsf/qcc74x_tlsf.c:55:20:update_historical_min_free	0	static
-/home/sai/QCCSDK-QCC74x/components/mm/tlsf/qcc74x_tlsf.c:62:6:qcc74x_mem_init	32	static
-/home/sai/QCCSDK-QCC74x/components/mm/tlsf/qcc74x_tlsf.c:71:7:qcc74x_malloc	32	static
-/home/sai/QCCSDK-QCC74x/components/mm/tlsf/qcc74x_tlsf.c:101:6:qcc74x_free	32	static
-/home/sai/QCCSDK-QCC74x/components/mm/tlsf/qcc74x_tlsf.c:128:7:qcc74x_realloc	32	static
-/home/sai/QCCSDK-QCC74x/components/mm/tlsf/qcc74x_tlsf.c:160:7:qcc74x_calloc	48	static
-/home/sai/QCCSDK-QCC74x/components/mm/tlsf/qcc74x_tlsf.c:199:7:qcc74x_malloc_align	48	static

@@ -1,3 +1,0 @@
-/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_hex.c:17:12:char2hex	0	static
-/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_hex.c:32:7:utils_bin2hex	0	static
-/home/sai/QCCSDK-QCC74x/components/utils/math/src/utils_hex.c:43:8:utils_hex2bin	48	static

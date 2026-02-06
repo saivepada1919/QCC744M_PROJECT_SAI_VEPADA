@@ -1,8 +1,0 @@
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_mtimer.c:24:13:systick_isr	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_mtimer.c:34:6:qcc74x_mtimer_config	32	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_mtimer.c:50:113:qcc74x_mtimer_get_freq	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_mtimer.c:55:91:qcc74x_mtimer_get_time_us	64	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_mtimer.c:88:113:__div64_32	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_mtimer.c:119:92:qcc74x_mtimer_get_time_ms	16	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_mtimer.c:134:88:qcc74x_mtimer_delay_us	16	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_mtimer.c:146:88:qcc74x_mtimer_delay_ms	32	static

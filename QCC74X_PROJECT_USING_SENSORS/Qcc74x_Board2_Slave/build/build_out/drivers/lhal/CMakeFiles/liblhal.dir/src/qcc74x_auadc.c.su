@@ -1,7 +1,0 @@
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_auadc.c:4:5:qcc74x_auadc_init	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_auadc.c:115:5:qcc74x_auadc_adc_init	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_auadc.c:193:5:qcc74x_auadc_link_rxdma	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_auadc.c:214:5:qcc74x_auadc_int_mask	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_auadc.c:232:5:qcc74x_auadc_int_unmask	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_auadc.c:250:5:qcc74x_auadc_get_intstatus	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_auadc.c:277:5:qcc74x_auadc_feature_control	0	static

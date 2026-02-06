@@ -1,7 +1,0 @@
-/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_sec_dbg.c:53:6:Sec_Dbg_Read_Chip_ID	0	static
-/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_sec_dbg.c:72:10:Sec_Dbg_Read_Dbg_State	0	static
-/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_sec_dbg.c:104:10:Sec_Dbg_Read_Dbg_Mode	0	static
-/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_sec_dbg.c:117:10:Sec_Dbg_Read_Dbg_Enable	0	static
-/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_sec_dbg.c:130:6:Sec_Dbg_Set_Dbg_Pwd	0	static
-/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_sec_dbg.c:146:6:Sec_Dbg_Set_Dbg_Trigger	0	static
-/home/sai/QCCSDK-QCC74x/drivers/soc/qcc743/std/src/qcc743_sec_dbg.c:162:10:Sec_Dbg_Wait_Ready	0	static

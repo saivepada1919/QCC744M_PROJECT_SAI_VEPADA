@@ -1,1 +1,0 @@
-riscv64-unknown-elf-ar crD ../../lib/libsys.a CMakeFiles/libsys.dir/qcc743/qcc743_sys.c.o

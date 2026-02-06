@@ -1,3 +1,0 @@
-/home/sai/QCCSDK-QCC74x/components/utils/coredump/bin_fmt_v1.c:16:6:core_bin_start_hook	64	static
-/home/sai/QCCSDK-QCC74x/components/utils/coredump/bin_fmt_v1.c:39:6:core_bin_sections_hook	16	static
-/home/sai/QCCSDK-QCC74x/components/utils/coredump/bin_fmt_v1.c:45:6:core_bin_end_hook	32	static

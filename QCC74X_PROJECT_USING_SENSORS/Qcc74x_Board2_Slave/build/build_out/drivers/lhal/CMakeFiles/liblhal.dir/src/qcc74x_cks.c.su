@@ -1,3 +1,0 @@
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cks.c:4:6:qcc74x_cks_reset	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cks.c:19:6:qcc74x_cks_set_endian	0	static
-/home/sai/QCCSDK-QCC74x/drivers/lhal/src/qcc74x_cks.c:31:10:qcc74x_cks_compute	0	static
